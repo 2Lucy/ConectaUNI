@@ -1,9 +1,0 @@
-
-{
-  "title": "ConectaUNI",
-  "description": "Aplicación universitaria para conectar estudiantes de la FIIS-UNI.",
-  "language": "es",
-  "robots": {
-    "index": false
-  }
-}
